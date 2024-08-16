@@ -21,3 +21,15 @@ function CallAPI($cardNumber) {
 
   return;
 }
+
+function CapitalizeLetter ($string) {
+  return $string;
+}
+
+function OddEvenNumber ($numbers) {
+  return $numbers;
+}
+
+function RemoveNumbers ($string) {
+  return $string;
+}
